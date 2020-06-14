@@ -25,7 +25,7 @@ function iLoveTheBeatles(n) {
   var love = []
 
   function incrementVariable() {
-    n+=1
+    n++
     return n
   }
 
